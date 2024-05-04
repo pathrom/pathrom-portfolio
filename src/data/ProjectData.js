@@ -24,7 +24,7 @@ export const ProjectList = [
     description:
       "An app where users can purchase online therapy sessions and chat with their therapists.",
     tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
+    github_url: "https://github.com/pathrom/MyMind---Copy",
     demo_url: "https://mymindweb.vercel.app/",
   },
   {
@@ -33,8 +33,8 @@ export const ProjectList = [
     description:
       "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+    github_url: "https://github.com/pathrom/Pokedex-ReactApp",
+    demo_url: "https://pokedex-pathrom.netlify.app/",
   },
   {
     img: "/jobDetect.png",
@@ -42,7 +42,7 @@ export const ProjectList = [
     description:
       "An app to detect if a job posting is a scam or not using its description.",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
+    github_url: "https://github.com/pathrom/JobDetectNode",
     demo_url: "https://jobdetective.onrender.com/",
   },
 ];
